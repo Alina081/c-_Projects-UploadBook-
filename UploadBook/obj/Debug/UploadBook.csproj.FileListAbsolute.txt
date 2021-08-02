@@ -1,0 +1,12 @@
+E:\Code\VisualC#\UploadBook\UploadBook\bin\Debug\UploadBook.exe.config
+E:\Code\VisualC#\UploadBook\UploadBook\bin\Debug\UploadBook.exe
+E:\Code\VisualC#\UploadBook\UploadBook\bin\Debug\UploadBook.pdb
+E:\Code\VisualC#\UploadBook\UploadBook\obj\Debug\UploadBook.csprojAssemblyReference.cache
+E:\Code\VisualC#\UploadBook\UploadBook\obj\Debug\UploadBook.Properties.Resources.resources
+E:\Code\VisualC#\UploadBook\UploadBook\obj\Debug\UploadBook.csproj.GenerateResource.cache
+E:\Code\VisualC#\UploadBook\UploadBook\obj\Debug\UploadBook.csproj.CoreCompileInputs.cache
+E:\Code\VisualC#\UploadBook\UploadBook\obj\Debug\UploadBook.exe
+E:\Code\VisualC#\UploadBook\UploadBook\obj\Debug\UploadBook.pdb
+E:\Code\VisualC#\UploadBook\UploadBook\obj\Debug\UploadBook.Form1.resources
+E:\Code\VisualC#\UploadBook\UploadBook\obj\Debug\UploadBook.Login.resources
+E:\Code\VisualC#\UploadBook\UploadBook\obj\Debug\UploadBook.SignUp.resources
